@@ -1,5 +1,5 @@
 # ScrabbleGAN_RU
-[Article] (https://arxiv.org/abs/2003.10557)
+[Article](https://arxiv.org/abs/2003.10557)
 
 [Pretrained weights](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1iYAeqkphoWjk0Ci12T2gCV0xVunpDi_i)
 
