@@ -4,9 +4,9 @@
 
 For generate images:
 
-[Pretrained weights](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1iYAeqkphoWjk0Ci12T2gCV0xVunpDi_i)
+[Pretrained weights 344](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1iYAeqkphoWjk0Ci12T2gCV0xVunpDi_i)
 
-[Char Map](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1APkTjkwDVWhcbZsIeC3J3A4HjeRJtLvQ)
+[Char Map 344](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1APkTjkwDVWhcbZsIeC3J3A4HjeRJtLvQ)
 
 
 For train:
