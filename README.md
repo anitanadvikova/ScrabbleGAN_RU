@@ -4,7 +4,7 @@
 
 For generate images:
 
-[Pretrained weights 200](https://drive.google.com/file/d/1AHtrO7uBEAuf3MyPV8iFen0RTz1T93Vz/view?usp=sharing)
+[Pretrained weights 200 epoch](https://drive.google.com/file/d/1AHtrO7uBEAuf3MyPV8iFen0RTz1T93Vz/view?usp=sharing)
 
 [Char Map](https://drive.google.com/file/d/1BaEi7JTfok14ETPaZINp-J35iqx0Krm6/view?usp=sharing)
 
